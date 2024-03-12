@@ -4,7 +4,7 @@ I'm a ECE student, Data Science Enthusiast!
 
 - 🌱 I’m currently learning about Generative AI 
 - 👨‍💻 All of my projects are available at [Jaydeep Das](https://github.com/dasjaydeep2001)
-- 💬 Ask me about Python, Data Analysis, Machine Learning, Deep Learning, NLP and Data Visualization.
+- 💬 Ask me about Python, Data Analysis, Machine Learning, Deep Learning, NLP,Soft Computing and Data Visualization.
 - 📫 How to reach me: jaydeep2001das@gmail.com
 - 📄 Know more about me in [my Resume](https://drive.google.com/file/d/1uRrkZLjye2aPCv2-gZ1kslpQo1lEukxG/view?usp=sharing)
 
