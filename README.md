@@ -24,6 +24,6 @@ I'm a ECE student, Data Science Enthusiast!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dasjaydeep2001&theme=tokyonight)
 
 ##   Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,linux,postman,pycharm,pytorch&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,linux,pycharm,pytorch&theme=light)](https://skillicons.dev)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dasjaydeep2001&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
